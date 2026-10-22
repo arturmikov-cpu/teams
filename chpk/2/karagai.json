@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "team": {
+    "name": "ХОЗЯЕВА",
+    "logo": "https://example.com/logo.png",
+    "formColor": "#ff5148"
+  },
+  "formation": "4-3-3",
+  "starters": [
+    { "number": "99", "name": "Козлов Григорий", "position": "GK", "photo": "" },
+    { "number": "16", "name": "Конев Владислав", "position": "LB", "photo": "" },
+    { "number": "2",  "name": "Субботин Фёдор",  "position": "LCB", "photo": "" },
+    { "number": "5",  "name": "Катаев Александр", "position": "RCB", "photo": "" },
+    { "number": "19", "name": "Мухранов Тимерлан","position": "RB", "photo": "" },
+    { "number": "14", "name": "Шляпников Дмитрий","position": "LM", "photo": "" },
+    { "number": "22", "name": "Щипицин Михаил",   "position": "CM", "photo": "" },
+    { "number": "7",  "name": "Чалов Ярослав",    "position": "RM", "photo": "" },
+    { "number": "10", "name": "Филимонов Артём",  "position": "LW", "photo": "" },
+    { "number": "9",  "name": "Томилов Максим",   "position": "ST", "photo": "" },
+    { "number": "17", "name": "Дьячков Владислав","position": "RW", "photo": "" }
+  ],
+  "substitutes": [
+    { "number": "1",  "name": "Гогарских Павел" },
+    { "number": "21", "name": "Дородном Максим" },
+    { "number": "29", "name": "Михалев Никита" }
+  ],
+  "officials": [
+    { "role": "Главный тренер", "name": "Чалов Денис Сергеевич" }
+  ]
+}

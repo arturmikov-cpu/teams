@@ -1,0 +1,34 @@
+{
+  "version": "2.0",
+  "team": {
+    "name": "СШОР ЗВЕЗДА",
+    "logo": "https://img.nagradion.ru/images/bf300x500/shields/SBfW2bZU.png",
+    "formColor": "#ff5148"
+  },
+  "photoBaseUrl": "",
+  "formation": "4-2-3-1",
+  "starters": [],
+  "substitutes": [],
+  "officials": [
+    {
+      "role": "Главный тренер",
+      "name": "Костюнин Юрий"
+    },
+    {
+      "role": "Тренер",
+      "name": "Боглаевский Глеб"
+    },
+    {
+      "role": "Тренер",
+      "name": "Морозов Роман"
+    },
+    {
+      "role": "Тренер",
+      "name": "Тимеркаев Ренат"
+    },
+    {
+      "role": "Тренер вратарей",
+      "name": "Чадов Максим"
+    }
+  ]
+}
